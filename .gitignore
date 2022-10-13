@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Icon
+turned_in
+potential_readings
+test.Rmd
+test.html
+*_cache
+final_papers
+final_talks
+exam_*
